@@ -1,6 +1,6 @@
 T({
   name: "pico-test-one",
-  url: "https://github.com/picostack/pico-example-target",
+  url: "https://github.com/digitalapnea/pico-example-target",
   up: ["docker-compose", "up"],
   down: ["docker-compose", "down"],
 });
